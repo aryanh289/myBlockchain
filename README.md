@@ -9,7 +9,7 @@ I will really be happy to collaborate on this project.
 2. The book i used for learning and developing this: "Learn Blockchain programming with JavaScript" by `Packt`.<br>
 <br>
 # For running this project: <br>
-1. Run `npm install`. <br>
+1. Run "npm install". <br>
 2. Open 5 terminals and on each, run seperate node: `npm run node_1`, 2,3,4,5 respectively.<br>
 3. After running all 5 nodes, our decentralised distributed ledger "falcon" will be up and running.<br>
 4. Open a browser, and type `http://localhost:3001/blockchain` and you will get the complete view of a blockchain.<br>
